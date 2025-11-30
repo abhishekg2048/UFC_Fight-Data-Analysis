@@ -32,3 +32,6 @@ This exploratory analysis serves as a foundation for data-driven MMA insights an
 - Which win methods (KO/TKO, submission, decision) dominate overall, and how have they changed over time?
 - Which submission types are most common across UFC history?
 - How do fight outcomes differ across weight classes?
+
+## Tools used
+Microsoft Excel – Data cleaning, calculations, pivot tables, and visualizations
