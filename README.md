@@ -27,7 +27,7 @@ Tables and charts analyzing win methods by count, win methods across weight clas
 
 ## Outcomes
 This exploratory analysis serves as a foundation for data-driven MMA insights and future predictive modelling. Moreover it helps us answer questions such as:
-- Do height, reach, or age advantages meaningfully increase a fighter’s chance of winning?
+- Do height, reach, or age advantages increase a fighter’s chance of winning?
 - How does significant strikes, takedowns, and submission attempts correlate with victory?
 - Which win methods (KO/TKO, submission, decision) dominate overall, and how have they changed over time?
 - Which submission types are most common across UFC history?
