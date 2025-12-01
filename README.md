@@ -3,7 +3,7 @@
 ## 📖 Introduction
 This project analyzes 3 decades of UFC fight data to uncover trends in fighter attributes, performance metrics, and fight outcomes. An online dataset has been utilized with several added columns calculating differntials to facilitate analysis. All insights are summarized through Excel pivot tables and visualizations.
 
-## 📂 Contents
+## 📂 Contents (of the ufcDataAnalysis.xlsx file)
 ### 1. Main Dataset
 Full fight dataset with added calculated columns (height/reach/age differences, strike/takedown/submission differentials, win method classifications, etc.) to facilitate analysis.
 
