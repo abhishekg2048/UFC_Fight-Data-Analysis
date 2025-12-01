@@ -1,9 +1,9 @@
-# UFC Fight Data Analysis
+# 🥊 UFC Fight Data Analysis
 
-## Introduction
+## 📖 Introduction
 This project analyzes 3 decades of UFC fight data to uncover trends in fighter attributes, performance metrics, and fight outcomes. An online dataset has been utilized with several added columns calculating differntials to facilitate meaningful comparisons. All insights are summarized through Excel pivot tables and visual charts.
 
-## Contents
+## 📂 Contents
 ### 1. Main Dataset
 Full fight dataset with added calculated columns (height/reach/age differences, strike/takedown/submission differentials, win method classifications, etc.) to facilitate analysis.
 
@@ -25,7 +25,7 @@ Charts showing submission wins vs. submission attempts, along with the popularit
 ### 7. Win Method Patterns
 Tables and charts analyzing win methods by count, win methods across weight classes, and yearly trends in win types.
 
-## Outcomes
+## 🎯 Outcomes
 This exploratory analysis serves as a foundation for data-driven MMA insights and future predictive modelling. Moreover it helps us answer questions such as:
 - Do height, reach, or age advantages increase a fighter’s chance of winning?
 - How does significant strikes, takedowns, and submission attempts correlate with victory?
@@ -33,5 +33,5 @@ This exploratory analysis serves as a foundation for data-driven MMA insights an
 - Which submission types are most common across UFC history?
 - How do fight outcomes differ across weight classes?
 
-## Tools used
+## 🛠️ Tools used
 Microsoft Excel – Data cleaning, calculations, pivot tables, and visualizations
